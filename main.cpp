@@ -7,7 +7,6 @@
 
 
 using namespace std;
-
 class ReadFile {
 public:
     size_t GetExampleNumber(string path) {
